@@ -4,7 +4,7 @@ import traceback
 
 from las import Client
 
-#Comment
+#Comments
 
 
 logging.getLogger().setLevel(logging.INFO)
